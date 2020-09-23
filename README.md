@@ -1,9 +1,12 @@
 ### Hi there 👋
 🌱 I’m currently learning React and C++
+ 
+[![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
+
 
 [![LeoooY's github stats](https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/LeoooY)
 
-[![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
+
 
 <!--
 repo examples
