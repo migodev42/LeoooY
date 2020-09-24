@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning React and C++
+🌱 I’m currently learning React and [C++](https://leoooy.github.io/)
  
 [![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
 
