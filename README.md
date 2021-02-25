@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning [React](https://leoy233.website/docs/FE/React/React_Intro_PPT/doc-%E4%B8%8A%E6%89%8BReact) and [C++](https://leoy233.website/docs/C++/doc-C++-C++PrimerNotes/)
-- 🔭 I’m currently working on [Leetcode](https://leetcode.com/leoooy/) and [Leetcode-cn](https://leetcode-cn.com/u/leoooy/)...
+- 🔭 I’m currently working on [data structures and algorithms](https://leetcode-cn.com/u/leoooy/)...
 
 [![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
 
