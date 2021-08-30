@@ -5,10 +5,10 @@
 
 <div style="display:flex">
 <a href="https://github.com/LeoooY" >
-  <img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="300px" height="150px"/>
+  <img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="380px" height="200px"/>
 </a>
 <a href="https://github.com/LeoooY" >
-  <img src="https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true" width="360px" height="150px" />
+  <img src="https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true" width="460px" height="200px" />
 </a>
 </div>
 
