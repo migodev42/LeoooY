@@ -1,11 +1,20 @@
 ### Hi there 👋
-- 🌱 I’m currently learning [React](https://leoy233.website/docs/FE/React/React_Intro_PPT/doc-%E4%B8%8A%E6%89%8BReact) and [C++](https://leoy233.website/docs/C++/doc-C++-C++PrimerNotes/)
-- 🔭 I’m currently working on [data structures and algorithms](https://leetcode-cn.com/u/leoooy/)...
-
-[![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
+- 📄 I’m writting blogs on [leoy233.website](https://leoy233.website/)
+- 🔭 I’m currently learning React、[C++](https://leoy233.website/C++/C++Primer/) and [Algorithms](https://leetcode-cn.com/u/leoooy/)
 
 
-[![LeoooY's github stats](https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/LeoooY)
+<div style="display:flex">
+<a href="https://github.com/LeoooY" >
+  <img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="300px" height="150px"/>
+</a>
+<a href="https://github.com/LeoooY" >
+  <img src="https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true" width="360px" height="150px" />
+</a>
+</div>
+
+
+<!-- [![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
+[![LeoooY's github stats](https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/LeoooY) -->
 
 
 
