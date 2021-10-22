@@ -2,7 +2,8 @@
 - 📄 I’m writting blogs on [leoy233.website](https://leoy233.website/)
 - 🔭 I’m currently learning React、[C++](https://leoy233.website/C++/C++Primer/) and [Algorithms](https://leetcode-cn.com/u/leoooy/)
 
-
+<!-- 
+github 会自动去掉style了，这种方式不再生效了，使用table排版
 <div style="display:flex">
 <a href="https://github.com/LeoooY" >
   <img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="380px" height="200px"/>
@@ -10,7 +11,14 @@
 <a href="https://github.com/LeoooY" >
   <img src="https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true" width="460px" height="200px" />
 </a>
-</div>
+</div> -->
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact" width="380px" height="200px"/></td>
+    <td valign="top"><img src="https://github-readme-stats.leoy233.vercel.app/api?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true" width="460px" height="200px" /></td>
+  </tr>
+</table>
 
 
 <!-- [![Top Langs](https://github-readme-stats.leoy233.vercel.app/api/top-langs/?username=LeoooY&show_icons=true&count_private=true&include_all_commits=true&layout=compact)](https://github.com/LeoooY)
