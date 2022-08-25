@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📄 I’m writting blogs on [leoy233.website](https://leoy233.website/)
-- 🔭 I’m currently learning React、[C++](https://leoy233.website/C++/C++Primer/) and [Algorithms](https://leetcode-cn.com/u/leoooy/)
+- 🔭 I’m currently learning React、[C++](https://leoy233.website/C++/C++Primer/) and practice [Algorithms](https://leetcode-cn.com/u/leoooy/)
+- 👯 I’m contributing to [umi](https://github.com/umijs/umi)、[ant-design](https://github.com/ant-design/ant-design) and [pro-components](https://github.com/ant-design/pro-components) in my spare time.
 
 <!-- 
 github 会自动去掉style了，这种方式不再生效了，使用table排版
