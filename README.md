@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📄 I’m writting blogs on [leoy233.website](https://leoy233.website/)
-- 🔭 I’m currently learning React、[C++](https://leoy233.website/C++/C++Primer/) and practice [Algorithms](https://leetcode-cn.com/u/leoooy/)
+- 🔭 I’m currently learning WebGL、React、[C++](https://leoy233.website/C++/C++Primer/) and practice [Algorithms](https://leetcode-cn.com/u/leoooy/)
 - 👯 I’m contributing to [umi](https://github.com/umijs/umi)、[ant-design](https://github.com/ant-design/ant-design) and [pro-components](https://github.com/ant-design/pro-components) in my spare time.
 
 <!-- 
